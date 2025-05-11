@@ -1,16 +1,24 @@
+Set-Content -Path "README.md" -Value @"
 # 🗂 Meus Projetos no GitHub
 
-Organização dos meus estudos, scripts e projetos:
+Este repositório é um portfólio organizado com meus projetos de aprendizado, estudos e criações pessoais.
 
 ## 📁 Estrutura
 
-- [`projetos-academicos/`](./projetos-academicos) – Trabalhos e códigos feitos em cursos ou faculdade
-- [`projetos-pessoais/`](./projetos-pessoais) – Projetos criados por interesse próprio
-- [`websites/`](./websites) – Páginas em HTML/CSS/JS
-- [`scripts/`](./scripts) – Scripts úteis (Python, Shell etc)
-- [`documentacao/`](./documentacao) – Guias e arquivos de apoio
+- [projetos-academicos](./projetos-academicos) – Trabalhos acadêmicos, atividades de cursos e experimentações.
+- [projetos-pessoais](./projetos-pessoais) – Projetos que desenvolvi por conta própria ou com curiosidade.
+- [websites](./websites) – Sites criados com HTML, CSS e JavaScript.
+- [scripts](./scripts) – Scripts utilitários em Python e outras linguagens.
+- [documentacao](./documentacao) – Tutoriais, guias e anotações técnicas.
 
 ---
 
-🧑‍💻 Desenvolvido por [Seu Nome]  
-📧 Contato: seuemail@exemplo.com
+## 👨‍💻 Sobre mim
+
+Sou um entusiasta da tecnologia e estou organizando minha jornada no GitHub. Este repositório reflete minha evolução, aprendizado e comprometimento com a prática.
+
+📧 *Contato:* mateusitibal72@gmail.com  
+🔗 *LinkedIn:* [www.linkedin.com/in/mateusitibal]
+
+
+"@
